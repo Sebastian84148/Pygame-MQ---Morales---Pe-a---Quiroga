@@ -1,0 +1,41 @@
+pregunta,respuesta_1,respuesta_2,respuesta_3,respuesta_4,respuesta_correcta,porcentaje_aciertos,cantidad_fallos,cantidad_aciertos,cantidad_veces_preguntada
+¿Qué película de superhéroes cuenta la historia de un hombre llamado Tony Stark?,Capitán América: El Soldado de Invierno,Los Vengadores,Thor: Ragnarok,Iron Man,4,0.0,0,0,0
+¿Qué película tiene como protagonistas a los juguetes Woody y Buzz?,Ratatouille,Monsters Inc.,Toy Story,Cars,3,0.0,0,0,0
+"¿Cuál es el nombre del superhéroe conocido como el ""Caballero Oscuro""?",Batman,Superman,Iron Man,Spider-Man,1,0.0,0,0,0
+"¿Qué personaje es conocido como ""El Niño que Vivió""?",Percy Jackson,Luke Skywalker,Harry Potter,Frodo Baggins,3,0.0,0,0,0
+¿En qué serie aparece el personaje Tyrion Lannister?,Breaking Bad,Los Soprano,Game of Thrones,Vikings,3,0.0,0,0,0
+¿Qué película presenta a una banda de superhéroes llamados los Guardianes de la Galaxia?,Capitán Marvel,Thor: Ragnarok,Guardianes de la Galaxia,Avengers,3,0.0,0,0,0
+¿Quién dirigió la película 'Inception'?,James Cameron,Denis Villeneuve,Ridley Scott,Christopher Nolan,4,0.0,0,0,0
+"¿Qué película animada incluye la canción ""Libre soy""?",Encanto,Frozen,Moana,La Sirenita,2,0.0,0,0,0
+¿En qué película de Disney aparece el personaje de Baloo?,Tarzan,Bambi,Dumbo,El Libro de la Selva,4,0.0,0,0,0
+"¿Qué saga de películas tiene como lema ""Que la Fuerza te acompañe""?",El Señor de los Anillos,Star Trek,Matrix,Star Wars,4,0.0,0,0,0
+¿En qué película aparece el personaje de Jack Sparrow?,El Tesoro Perdido,Alicia en el País de las Maravillas,Peter Pan,Piratas del Caribe,4,0.0,0,0,0
+¿Qué serie tiene como protagonista a un grupo de amigos en Nueva York?,Friends,How I Met Your Mother,Seinfeld,The Office,1,0.0,0,0,0
+¿Quién interpretó a Lara Croft en las películas de 'Tomb Raider'?,Scarlett Johansson,Angelina Jolie,Alicia Vikander,Charlize Theron,2,0.0,0,0,0
+¿Cuál es el nombre del villano en 'El Rey León'?,Mufasa,Shere Khan,Scar,Jafar,3,0.0,0,0,0
+¿En qué película de Pixar aparece la familia Parr?,Coco,Intensa-Mente,Toy Story,Los Increíbles,4,0.0,0,0,0
+¿Quién protagonizó la película 'Gladiador'?,Joaquin Phoenix,Russell Crowe,Leonardo DiCaprio,Brad Pitt,2,0.0,0,0,0
+¿Qué director está detrás de la película 'Titanic'?,James Cameron,Steven Spielberg,Peter Jackson,Ridley Scott,1,0.0,0,0,0
+¿Qué película de terror popular tiene una muñeca llamada Annabelle?,La Monja,El Conjuro,Actividad Paranormal,It,2,0.0,0,0,0
+¿Qué personaje de Marvel usa un traje de araña?,Black Panther,Doctor Strange,Spider-Man,Iron Man,3,0.0,0,0,0
+¿En qué saga aparece el personaje Katniss Everdeen?,Divergente,Crepúsculo,Los Juegos del Hambre,Harry Potter,3,0.0,0,0,0
+¿Quién es el director de 'Avatar'?,Steven Spielberg,Peter Jackson,James Cameron,Christopher Nolan,3,0.0,0,0,0
+¿Qué película de Pixar tiene como protagonista a una niña llamada Riley y sus emociones?,Valiente,Soul,Coco,Intensa-Mente,4,0.0,0,0,0
+¿En qué serie aparece el personaje Walter White?,Mad Men,Better Call Saul,The Wire,Breaking Bad,4,0.0,0,0,0
+¿Quién es el protagonista de Breaking Bad?,Saul Goodman,Walter White,Jesse Pinkman,Gustavo Fring,2,0.0,0,0,0
+¿Quién interpretó a Joker en El Caballero Oscuro?,Jack Nicholson,Heath Ledger,Jared Leto,Joaquin Phoenix,2,0.0,0,0,0
+¿Qué serie es conocida por el laboratorio de química del profesor Walter White?,House,The Sopranos,Better Call Saul,Breaking Bad,4,0.0,0,0,0
+"¿Qué película incluye la frase ""Siempre""?",El Señor de los Anillos,Crepúsculo,Titanic,Harry Potter,4,0.0,0,0,0
+"¿Qué serie es conocida por el lema ""Winter is Coming""?",The Witcher,Vikings,Los Soprano,Game of Thrones,4,0.0,0,0,0
+¿Quién protagonizó la película 'Titanic' junto a Kate Winslet?,Leonardo DiCaprio,Johnny Depp,Brad Pitt,Matt Damon,1,0.0,0,0,0
+¿En qué película aparece el personaje de Gollum?,Narnia,El Señor de los Anillos,Harry Potter,El Hobbit,2,0.0,0,0,0
+¿Qué actriz interpreta a la Mujer Maravilla en el Universo DC?,Margot Robbie,Scarlett Johansson,Gal Gadot,Brie Larson,3,0.0,0,0,0
+¿En qué película de Pixar aparece el personaje Buzz Lightyear?,Toy Story,Cars,Monsters Inc.,Ratatouille,1,0.0,0,0,0
+¿Quién protagonizó la película 'La La Land' junto a Ryan Gosling?,Scarlett Johansson,Natalie Portman,Emma Stone,Jennifer Lawrence,3,0.0,0,0,0
+¿Qué actor interpreta a Iron Man en el Universo Cinematográfico de Marvel?,Chris Hemsworth,Mark Ruffalo,Robert Downey Jr.,Chris Evans,3,0.0,0,0,0
+¿Qué película ganó el Oscar a Mejor Película en 1994?,Cadena Perpetua,Pulp Fiction,El Rey León,Forrest Gump,4,0.0,0,0,0
+¿En qué año se estrenó la primera película de 'Star Wars'?,1983,1975,1980,1977,4,0.0,0,0,0
+¿Quién dirigió la película 'Pulp Fiction'?,Francis Ford Coppola,Steven Spielberg,Martin Scorsese,Quentin Tarantino,4,0.0,0,0,0
+¿Qué película de terror tiene como protagonista a un payaso llamado Pennywise?,It,El Conjuro,Annabelle,La Monja,1,0.0,0,0,0
+¿En qué película de Disney aparece el personaje de Ariel?,La Bella Durmiente,La Sirenita,Cenicienta,Aladdin,2,0.0,0,0,0
+¿Qué película tiene como protagonista a un robot llamado WALL-E?,Toy Story,WALL-E,Ratatouille,Buscando a Nemo,2,0.0,0,0,0
